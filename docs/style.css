@@ -1,4 +1,4 @@
-/* Reset básico */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -7,7 +7,7 @@ body {
   color: #333;
 }
 
-/* Cabeçalho */
+
 header {
   background: #2c3e50;
   color: white;
@@ -15,7 +15,7 @@ header {
   padding: 20px 0;
 }
 
-/* Menu de navegação */
+
 nav {
   display: flex;
   justify-content: center;
@@ -32,7 +32,7 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Seções */
+
 section {
   padding: 20px;
   margin: 10px;
@@ -40,13 +40,13 @@ section {
   border-radius: 5px;
 }
 
-/* Listas */
+
 ul {
   list-style-type: square;
   margin-left: 20px;
 }
 
-/* Links */
+
 a {
   color: #2980b9;
   text-decoration: none;
@@ -55,7 +55,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Rodapé */
 footer {
   text-align: center;
   padding: 15px;
